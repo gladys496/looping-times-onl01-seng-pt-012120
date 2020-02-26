@@ -3,7 +3,7 @@ times = 0
   puts "Wingardium Leviosa."
   
  end 
-times
+
 
 
 
