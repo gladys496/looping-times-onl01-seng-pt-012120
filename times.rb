@@ -6,7 +6,7 @@ def using_times(times)
   
   end 
 end 
-   
+   puts times 
 
 
 
